@@ -1,0 +1,36 @@
+/* Estilos generales para el cuerpo de la página */
+body {
+    background-color: #f8f9fa; /* Color de fondo claro */
+    font-family: 'Arial', sans-serif;
+}
+
+/* Estilos para el header */
+header {
+    background-color: #007bff; /* Color azul de Bootstrap */
+}
+
+/* Estilos para el footer */
+footer {
+    background-color: #343a40; /* Color gris oscuro de Bootstrap */
+}
+
+/* Estilos para la navegación vertical */
+.vertical-nav {
+    border-right: 1px solid #dee2e6; /* Línea separadora a la derecha */
+    height: 100%; /* Ocupa todo el alto disponible */
+    padding-top: 15px;
+}
+
+.vertical-nav .nav-link {
+    color: #495057; /* Color de texto para los enlaces */
+    padding: 10px 15px;
+}
+
+.vertical-nav .nav-link:hover {
+    background-color: #e9ecef; /* Color de fondo al pasar el mouse */
+}
+
+/* Estilos para el contenido principal */
+main {
+    padding: 20px;
+}
