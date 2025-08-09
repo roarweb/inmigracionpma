@@ -34,3 +34,20 @@ footer {
 main {
     padding: 20px;
 }
+
+.column {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100px; /* Ajusta la altura según tus necesidades */
+  border: 1px solid black; /* Para visualizar el contenedor */
+  padding: 0 10px; /* Para que los botones no toquen los bordes */
+}
+
+.button {
+  font-size: 24px;
+  cursor: pointer;
+  border: 1px solid gray;
+  background-color: lightgray;
+  padding: 5px 10px;
+}
