@@ -47,7 +47,7 @@ footer {
   padding: 0 5%;
   
   /* Para visualizar el contenedor */
-  border: 1px solid black; 
+  /*border: 1px solid black;*/ 
 }
 
 .button {
